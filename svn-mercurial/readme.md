@@ -1,0 +1,1 @@
+This repo contains pdf for subversion and mercurial
