@@ -32,8 +32,8 @@ I regularly document my learnings on:
 3. Follow the README files inside each project for setup details
 
 ## 📬 Connect With Me
-- **GitHub**: [your-profile](https://github.com/Is-hika)
-- **LinkedIn**: [your-profile](https://www.linkedin.com/in/ishika-kumari-5b742b217/)
+- **GitHub**: [my-profile](https://github.com/Is-hika)
+- **LinkedIn**: [my-profile](https://www.linkedin.com/in/ishika-kumari-5b742b217/)
   
 
 ---
