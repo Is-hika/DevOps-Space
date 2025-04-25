@@ -1,7 +1,0 @@
-[
-  "automation_test_pytest.py::test_api[http://localhost:8000/add/-1/1-0-Test addition of -1 and 1]",
-  "automation_test_pytest.py::test_api[http://localhost:8000/add/2/2-4-Test addition of 2 and 2]",
-  "automation_test_pytest.py::test_api[http://localhost:8000/multiply/0/5-0-Test multiplication by zero]",
-  "automation_test_pytest.py::test_api[http://localhost:8000/multiply/2/2-4-Test multiplication of 2 and 2]",
-  "automation_test_pytest.py::test_api[http://localhost:8000/subtract/2/2-0-Test subtraction of 2 from 2]"
-]
